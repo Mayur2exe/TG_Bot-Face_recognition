@@ -1,4 +1,19 @@
 # A Telegram bot for face recognition
+- This Bot is created by @Mayurrr2.
+- It is used for face recognition.
+- It uses Laptop's webcam to detect and recognise faces.
+- If a face is unknown to system it takes a screenshot and save it.
+- It can take screenshot of the live feed.
+- It can also inform the current status from live feed.
+- After Stopping Webcam, it collects all the data and send it to user.
+- It can also detect and recognise faces using an Image.
+- It can also detect and recognise faces using a Video.
+- It can also add images to known faces.
+- Type / to know about features.
+
+
+
+
 ### Steps Required to run this bot
 #### Editing in Scripts
 1. Enter API KEY  (Provided by BotFather)
